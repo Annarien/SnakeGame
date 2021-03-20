@@ -7,3 +7,6 @@ If the snake eats itself or bumps into a wall => Game Over.
 """
 
 # imports
+from snake_utils import GameProcess
+
+GameProcess.gameLoop()
