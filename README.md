@@ -1,2 +1,2 @@
 # SnakeGame
-Creating a traditional snake game.
+A traditional snake game built in Python.
